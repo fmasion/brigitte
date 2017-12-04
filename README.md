@@ -7,7 +7,7 @@ Une lib qui permet d'obtenir une source de donnée versionnée avec jGit
 
 Ajoute dans tes dépendences l'artefact suivant :
 
-    "com.kreactive" %% "brigitte" % "0.1.1"
+    "com.kreactive" %% "brigitte" % "0.2.1"
     
 Puis instancie le `Fetcher` qui te convient.
 
