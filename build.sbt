@@ -2,7 +2,7 @@ name:= "brigitte"
 
 scalaVersion := "2.12.4"
 
-version := "0.2.1"
+version := "0.2.2"
 
 crossScalaVersions := Seq("2.11.11", "2.12.4")
 
